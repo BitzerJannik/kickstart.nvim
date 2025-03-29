@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`https://github.com/BitzerJannik/kickstart.nvim.git`
+`git clone https://github.com/BitzerJannik/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim`
 
 A starting point for Neovim that is:
 
