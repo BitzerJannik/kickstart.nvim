@@ -2,6 +2,8 @@
 
 ## Introduction
 
+`https://github.com/BitzerJannik/kickstart.nvim.git`
+
 A starting point for Neovim that is:
 
 * Small
